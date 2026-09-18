@@ -1,3 +1,5 @@
 # New Project
 
-this project was created from local repo
+this project was created from local repo.
+
+Created by Naresh Deora
